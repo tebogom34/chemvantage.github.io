@@ -1,0 +1,24 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color:black;
+    padding:0;
+    width:100%;
+    margin:0;
+}
+.payment-card:hover{
+    border:6px solid black;
+}
+.btn-primary:hover{
+    background-color:gold;
+}
+.form-control{
+    border-bottom:2px dashed #333;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    background-color:transparent;
+    color:black;
+}
+#contact{
+    margin-top:150px;
+}
